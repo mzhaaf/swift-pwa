@@ -13,4 +13,5 @@ export const ORANGE = '#FE5D26';
 export const GREEN = '#46954D';
 export const BLACK = '#000000';
 
-export const PINK = '#FFC0CB';
+export const PINK = '#e3afdca3';
+export const PINK_LIGHT = '#e2c8dea3';

@@ -58,6 +58,7 @@
     },
     "qty": "Jumlah",
     "form": {
+        "registrationTitle": "Formulir Pendaftaran (translation)",
         "firstName": "Nama Depan",
         "lastName": "Nama Belakang",
         "phoneNumber": "Nomor Telepon",

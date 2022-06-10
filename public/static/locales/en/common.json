@@ -59,6 +59,7 @@
         "asLowAs": "As low as"
     },
     "form": {
+        "registrationTitle": "Registration Form (translation)", 
         "firstName": "First Name",
         "lastName": "Last Name",
         "phoneNumber": "Phone Number",
